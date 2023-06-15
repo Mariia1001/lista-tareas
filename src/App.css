@@ -1,0 +1,23 @@
+.task-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .task-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  
+  .task-checkbox {
+    margin-right: 8px;
+  }
+  
+  .task-text {
+    text-decoration: none;
+  }
+  
+  .task-completed {
+    text-decoration: line-through;
+  }
+
